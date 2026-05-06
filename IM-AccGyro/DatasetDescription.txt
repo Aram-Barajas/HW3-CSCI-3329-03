@@ -1,0 +1,6 @@
+We have introduced a Accelerometer and Gyroscope (IM-AccGyro) dataset using GY-521 sensors attached to the 
+subject's arm, leg, and neck region to capture important aspects of human motion. 
+The dataset represents motion data captured while subjects are involved in performing 
+6 human activity behaviors: boxing, clapping, running, sitting, standing, and walking. 
+The ages of the participants range from 15 to 30 years with having weight ranging between 30-100 kgs. 
+Due to multi-sensor environment and inter-behavioral similarity, the dataset itself poses adequate amount of challenges. 
