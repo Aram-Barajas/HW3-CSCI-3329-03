@@ -1,4 +1,6 @@
-CSCI 3329 — Homework 3 Report
+Aram Barajas
+Professor Dongchul Kim
+CSCI 3329 Homework 3 Report
 1. Dataset
 Name: Intelligent Media Accelerometer and Gyroscope (IM-AccGyro — 10 Subjects)
 Source: Collected from 10 subjects performing 6 activities each
