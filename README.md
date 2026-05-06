@@ -20,6 +20,7 @@ Class Distribution
 Counts:
 
 {'boxing': 4290, 'clapping': 4290, 'run': 4291, 'sitting': 4187, 'standing': 4091, 'walk': 4290}
+
 2. Preprocessing
 Step	Decision	Rationale
 Missing values	dropna()	No missing values present; step kept as safeguard
